@@ -58,7 +58,7 @@ export default {
           ]
         },
 
-        { pizzas: [{titulo: 'pizzas'},
+        { pizzas: [
         { nombre: "mozzarela", descripcion: "masa, salsa de tomate, mozzarela, aceitunas", precio: "450", img: "https://images.unsplash.com/photo-1605478371310-a9f1e96b4ff4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80" }] },
       ],
     };
